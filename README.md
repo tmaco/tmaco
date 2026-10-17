@@ -17,4 +17,5 @@ A data orchestration engine and frontend application designed to power an NBA Fa
 
 
 👉 **Backend Repository:** [https://github.com/tmaco/sternibackend](https://github.com/tmaco/sternibackend)
+
 🌐 **Live Application:** [https://sterni2k22.netlify.app/#/](https://sterni2k22.netlify.app/#/) *(Note: This is a private environment for personal use and data validation).*
