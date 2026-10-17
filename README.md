@@ -8,7 +8,7 @@ Computer Engineer with 10+ years of experience specialized in systems, infrastru
 
 ## 🏀 Featured Project
 
-### [NBA Fantasy Full-Stack Platform](https://github.com)
+### [NBA Fantasy Full-Stack Platform](https://github.com/tmaco/sternibackend)
 A data orchestration engine and frontend application designed to power an NBA Fantasy platform, automating daily ingestion of official NBA statistics and exposing a secure API.
 
 * **Data Engineering & Batch Ingestion:** Node.js post-game processing workflow for handling MySportsFeeds API payloads, ensuring data integrity and preventing duplicates in MongoDB Atlas.
